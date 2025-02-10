@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Jesper Brunnström
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jesper
+last_name: Brunnström
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐟
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: KU Leuven
+    url: https://www.esat.kuleuven.be/stadius/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jesper.brunnstroem@kuleuven.be'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pvjesper
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jesper-brunnström-18423584/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=EtdtL40AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2946-1268
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sound field estimation
+  - Sound field control
 
 education:
   - area: PhD Artificial Intelligence
@@ -142,12 +137,12 @@ skills:
         icon: camera
 
 languages:
+  - name: Swedish
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Japanese
+    percent: 2
 
 # Awards.
 #   Add/remove as many awards below as you like.
