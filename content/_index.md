@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text: 
         Use this area to speak to your mission. 
         Please reach out to collaborate 😃
     design:
