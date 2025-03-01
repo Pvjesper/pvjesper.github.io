@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - publications
+      count : 20
     design:
       view: article-grid
       fill_image: false
