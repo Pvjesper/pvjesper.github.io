@@ -9,9 +9,6 @@ sections:
     content:
       title: Publications
       text: Published research papers
-      filters:
-        folders:
-          - publications
     design:
       view: article-grid
       fill_image: false
