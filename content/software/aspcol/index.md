@@ -8,6 +8,6 @@ tags:
   - JAX
 ---
 
-State-of-the-art sound field estimation and sound field reproduction methods implemented in Python.
+State-of-the-art sound field estimation and sound field reproduction methods in Python and JAX.
 
 <!--more-->

@@ -8,6 +8,6 @@ tags:
   - JAX
 ---
 
-Core signal processing functionality implemented in Python and JAX. 
+Core signal processing functionality in Python and JAX. 
 
 <!--more-->
