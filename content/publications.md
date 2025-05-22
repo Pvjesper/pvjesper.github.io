@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Publications
-      text:  Published academic papers
+      text: 
       filters:
         folders:
           - publications
