@@ -98,8 +98,10 @@ sections:
         text: Get Started
         url: https://hugoblox.com/templates/
     design:
-      card:
+      background:
+        color: black
+      #card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      #  css_class: "bg-primary-700"
+      #  css_style: ""
 ---
