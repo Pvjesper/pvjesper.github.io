@@ -141,4 +141,4 @@ languages:
 ---
 
 ## About Me
-I am a PhD student at STADIUS, KU Leuven, in the Marie Skłodowska-Curie European Training Network SOUNDS. My research interests includes  sound field estimation and sound field reproduction, such as sound zone control and spatial active noise control. 
+I am a PhD student at STADIUS, KU Leuven, in the Marie Skłodowska-Curie European Training Network SOUNDS. My research interests includes sound field estimation and sound field reproduction, such as sound zone control and spatial active noise control. 

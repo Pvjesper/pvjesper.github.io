@@ -30,15 +30,15 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. 
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: '📚 My Research'
+#      subtitle: ''
+#      text: |-
+#        Use this area to speak to your mission. 
+#        Please reach out to collaborate 😃
+#    design:
+#      columns: '1'
   - block: collection
     id: papers
     content:
