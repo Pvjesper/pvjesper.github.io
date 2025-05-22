@@ -10,8 +10,8 @@ first_name: Jesper
 last_name: Brunnström
 
 # Status emoji
-status:
-  icon: 🐟
+#status:
+#  icon: 🐟
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,6 +45,7 @@ profiles:
 interests:
   - Sound field estimation
   - Sound field control
+  - Kernel methods
 
 education:
   - area: M.Sc. in Electrical Engineering
@@ -52,10 +53,10 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_.
-    button:
-      text: 'Read M.Sc. Thesis'
-      url: 'https://example.com'
+      Thesis on reinforcement learning for multi-agent systems.
+    #button:
+    #  text: 'Read M.Sc. Thesis'
+    #  url: 'https://example.com'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
