@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: pubs
-      text: I have developed a few software packages during my research. Each of the following are Python packages released under a permissive license. 
+      title: Publications
+      text:  
       filters:
         folders:
           - publications

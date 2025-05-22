@@ -8,8 +8,9 @@ design:
   # Default section spacing
   spacing: "6rem"
   background:
-    image:
-      filename: ""
+    color : green
+    #image:
+    #  filename: ""
 
 sections:
   - block: resume-biography-3
