@@ -10,11 +10,5 @@ publication_types:
 - paper-conference
 publication: '*European Signal Processing Conference (EUSIPCO)*'
 doi: 10.23919/EUSIPCO58844.2023.10289995
-tags:
-- aspcol
-- frequency domain
-- sound zone control
-- spatial audio
-- WOLA
 url_pdf: https://eurasip.org/Proceedings/Eusipco/Eusipco2023/pdfs/0000341.pdf
 ---

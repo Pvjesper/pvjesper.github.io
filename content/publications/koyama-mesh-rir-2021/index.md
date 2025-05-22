@@ -29,11 +29,6 @@ abstract: 'A new impulse response (IR) dataset called \"MeshRIR\" is introduced.
   MeshRIR is suitable for evaluating sound field analysis and synthesis methods. This
   dataset is freely available at https://sh01k.github.io/MeshRIR/ with some codes
   of sample applications.'
-tags:
-- dataset
-- koyama lab
-- room impulse response
-- spatial audio
 links:
 - name: URL
   url: http://arxiv.org/abs/2106.10801

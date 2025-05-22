@@ -25,12 +25,4 @@ abstract: An active noise control (ANC) method to reduce noise over a region in 
   a two-dimensional free space, as well as adaptive broadband noise control in a three-dimensional
   reverberant space. The experimental results indicated that the proposed method outperforms
   the multipoint-pressure-control-based method in terms of regional noise reduction.
-tags:
-- active noise control
-- aspcol
-- fxlms
-- kernel interpolation
-- koyama lab
-- multichannel
-- spatial anc
 ---

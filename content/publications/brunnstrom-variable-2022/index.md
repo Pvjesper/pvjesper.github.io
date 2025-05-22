@@ -22,12 +22,4 @@ abstract: A sound zone control method is proposed, based on the frequency domain
   placement is restricted. The proposed method with directional weighting outperforms
   the pointwise VAST over the full bandwidth of the signal, and the proposed method
   without directional weighting outperforms the pointwise VAST at low frequencies.
-tags:
-- aspcol
-- frequency domain
-- kernel interpolation
-- koyama lab
-- leuven lab
-- sound zone control
-- VAST
 ---

@@ -27,10 +27,4 @@ abstract: Sound zone control is posed as an optimization problem where finite im
   proposed methods are compared against acoustic contrast controlin a simulated reverberant
   environment, where it is shown that the proposed methods require less transmit power
   to produce similar SINRs.
-tags:
-- aspcol
-- convex optimization
-- duality
-- SDP
-- sound zone control
 ---

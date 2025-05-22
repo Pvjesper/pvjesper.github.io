@@ -10,12 +10,4 @@ publishDate: '2025-02-11T21:40:26.154382Z'
 publication_types:
 - paper-conference
 publication: '*Asilomar Conference on Signals, Systems, and Computers*'
-tags:
-- active noise control
-- adaptive filter
-- aspcol
-- fxlms
-- low-rank
-- multichannel
-- time domain
 ---

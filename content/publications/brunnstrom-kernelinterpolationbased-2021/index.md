@@ -24,13 +24,4 @@ abstract: Time-domain spatial active noise control (ANC) algorithms based on ker
   kernel function. Numerical simulation results indicate that our filtered-x least-mean-square-based
   algorithms are effective for reducing nonstationary broadband noise in a region,
   as compared with multipoint pressure control.
-tags:
-- active noise control
-- adaptive filter
-- fast block
-- fxlms
-- kernel interpolation
-- koyama lab
-- spatial anc
-- time domain
 ---
