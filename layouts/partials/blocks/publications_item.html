@@ -1,0 +1,30 @@
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-bottom: 2rem; align-items: flex-start;">
+  <!-- Left: Citation Info -->
+  <div style="flex: 1 1 60%;">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ with .Params.authors }}
+      <p><strong>Authors:</strong> {{ delimit . ", " }}</p>
+    {{ end }}
+    {{ with .Params.publication }}
+      <p><em>{{ . }}</em></p>
+    {{ end }}
+    {{ with .Params.abstract }}
+      <p>{{ . }}</p>
+    {{ end }}
+    <p>
+      {{ with .Params.url_pdf }}<a href="{{ . }}">[PDF]</a>{{ end }}
+      {{ with .Params.url_code }} <a href="{{ . }}">[Code]</a>{{ end }}
+    </p>
+  </div>
+
+  <!-- Right: Embedded Video -->
+  {{ with .Params.url_video }}
+  <div style="flex: 1 1 35%;">
+    <iframe width="100%" height="215"
+      src="https://www.youtube.com/embed/{{ replaceRE `^.*v=([a-zA-Z0-9_-]+).*` `$1` . }}"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+  {{ end }}
+</div>
