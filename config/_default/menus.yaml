@@ -7,11 +7,11 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Publications
-    url: publications/
+  - name: Publication
+    url: publication/
     weight: 11
-  - name: Publications list
-    url: publications_list/
+  - name: Publication list
+    url: publication_list/
     weight: 12
   - name: Software
     url: software/

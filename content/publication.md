@@ -13,14 +13,14 @@ design:
 sections:
   - block: collection
     content:
-      title: Publications list
+      title: Publication
       text: 
       filters:
         folders:
-          - publications
+          - publication
       count : 20
-    design:
-      view: citation
+    #design:
+    # view: compact #citation, list, card, showcase
       #fill_image: false
       #columns: 3
 ---
