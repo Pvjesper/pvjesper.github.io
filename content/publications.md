@@ -20,7 +20,7 @@ sections:
           - publications
       count : 20
     design:
-      view: citation
+      view: compact #citation, list, card, showcase
       #fill_image: false
       #columns: 3
 ---

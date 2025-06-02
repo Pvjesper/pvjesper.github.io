@@ -1,4 +1,5 @@
 ---
+{{< youtube "Qy_h71a17Qo" >}}
 title: Variable Span Trade-off Filter for Sound Zone Control with Kernel Interpolation
   Weighting
 authors:
