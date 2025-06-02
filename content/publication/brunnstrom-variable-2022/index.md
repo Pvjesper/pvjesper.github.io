@@ -1,4 +1,5 @@
 ---
+type: publication
 title: Variable Span Trade-off Filter for Sound Zone Control with Kernel Interpolation
   Weighting
 authors:
