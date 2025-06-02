@@ -19,8 +19,8 @@ sections:
         folders:
           - publications
       count : 20
-    design:
-      view: compact #citation, list, card, showcase
+    #design:
+    # view: compact #citation, list, card, showcase
       #fill_image: false
       #columns: 3
 ---
