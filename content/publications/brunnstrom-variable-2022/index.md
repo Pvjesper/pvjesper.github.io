@@ -1,5 +1,4 @@
 ---
-{{< youtube "Qy_h71a17Qo" >}}
 title: Variable Span Trade-off Filter for Sound Zone Control with Kernel Interpolation
   Weighting
 authors:
@@ -23,4 +22,5 @@ abstract: A sound zone control method is proposed, based on the frequency domain
   placement is restricted. The proposed method with directional weighting outperforms
   the pointwise VAST over the full bandwidth of the signal, and the proposed method
   without directional weighting outperforms the pointwise VAST at low frequencies.
+url_video: "https://www.youtube.com/watch?v=G3CyZ5yNgy8&ab"
 ---
