@@ -13,7 +13,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Publications
+      title: Publications list
       text: 
       filters:
         folders:
