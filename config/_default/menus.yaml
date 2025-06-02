@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: publications/
     weight: 11
+  - name: Publications list
+    url: publications_list/
+    weight: 12
   - name: Software
     url: software/
     weight: 20
